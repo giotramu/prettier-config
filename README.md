@@ -1,8 +1,9 @@
 # Prettier Config
 
-[Prettier][prettier-url] is an awesome tool and it's focused on doing what it does best, making your code pretty! :sparkles:
+[Prettier][prettier-url] is an awesome tool and it's focused on doing what it does best: handle the code styles. :sparkles: I bundled my configuration to share it between different projects.
 
-That means there's no much effort going into adding support for configuration options, so this project adds them.
+[![NPM][npm-version-img]][npm-url]
+[![NPM][npm-download-img]][npm-url]
 
 - [Prettier Config](#prettier-config)
   - [Getting started](#getting-started)
@@ -45,7 +46,7 @@ module.exports = {
 To format a file in-place, use --write. (Note: This overwrites your files!)
 
 ```sh
-npx prettier -w -u .
+npx prettier --write .
 ```
 
 ## Config
@@ -57,8 +58,16 @@ Check the [`.prettierrc.json`](./.prettierrc.json) file if you want to inspect t
 [MIT License](./LICENSE)
 
 <!---
+  I M A G E S
+-->
+
+[npm-download-img]: https://img.shields.io/npm/dm/@giotramu/prettier-config?style=flat-square&colorA=0c57fb&colorB=0c57fb
+[npm-version-img]: https://img.shields.io/npm/v/@giotramu/css-kit?style=flat-square&colorA=0c57fb&colorB=0c57fb
+
+<!---
   L I N K S
 -->
 
+[npm-url]: https://www.npmjs.com/package/@giotramu/prettier-config
 [prettier-url]: https://prettier.io/
 [prettier-doc-url]: https://prettier.io/docs/en/configuration.html
