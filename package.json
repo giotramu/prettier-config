@@ -16,6 +16,10 @@
     "access": "public"
   },
   "main": ".prettierrc.json",
+  "files": [
+    ".prettierrc.json",
+    "CHANGELOG.md"
+  ],
   "scripts": {
     "prettify": "prettier -w -u ."
   },
