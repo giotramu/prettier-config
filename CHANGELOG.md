@@ -2,6 +2,22 @@
 
 All notable changes to the project will be documented in this file.
 
+## 1.0.1 (2020-11-22)
+
+### Added
+
+--
+
+### Changed
+
+--
+
+### Fixed
+
+- Fix the CD/CI issues.
+
+---
+
 ## 1.0.0 (2020-11-22)
 
 ### Added
