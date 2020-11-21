@@ -37,20 +37,20 @@ If you don’t want to use `package.json`, you can use any of the [supported ext
 
 ```js
 module.exports = {
-  ...require("@giotramu/prettier-config"),
-  semi: false,
+  ...require('@giotramu/prettier-config'),
+  semi: false
 };
 ```
 
-To format a file in-place, use --write. **(Note: This overwrites your files!)**
+To format a file in-place, use --write. (Note: This overwrites your files!)
 
 ```sh
-npx prettier --write .
+npx prettier -w -u .
 ```
 
 ## Config
 
-Check the [`index.json`](./index.json) file if you want to inspect the configuration.
+Check the [`.prettierrc.json`](./.prettierrc.json) file if you want to inspect the configuration.
 
 ## License
 

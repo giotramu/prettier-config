@@ -15,9 +15,9 @@
   "publishConfig": {
     "access": "public"
   },
-  "main": "index.json",
+  "main": ".prettierrc.json",
   "scripts": {
-    "prettify": "prettier -w -u --config ./index.json ."
+    "prettify": "prettier -w -u ."
   },
   "husky": {
     "hooks": {
