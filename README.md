@@ -61,8 +61,8 @@ Check the [`.prettierrc.json`](./.prettierrc.json) file if you want to inspect t
   I M A G E S
 -->
 
-[npm-download-img]: https://img.shields.io/npm/dm/@giotramu/prettier-config?style=flat-square&colorA=0c57fb&colorB=0c57fb
-[npm-version-img]: https://img.shields.io/npm/v/@giotramu/css-kit?style=flat-square&colorA=0c57fb&colorB=0c57fb
+[npm-download-img]: https://img.shields.io/npm/dm/@giotramu/prettier-config?style=flat-square&colorA=202d3a&colorB=0c57fb
+[npm-version-img]: https://img.shields.io/npm/v/@giotramu/prettier-config?style=flat-square&colorA=202d3a&colorB=0c57fb
 
 <!---
   L I N K S
