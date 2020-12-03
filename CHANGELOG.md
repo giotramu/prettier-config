@@ -2,7 +2,7 @@
 
 All notable changes to the project will be documented in this file.
 
-## 1.0.1 (2020-11-22)
+## 1.1.1 (2020-12-04)
 
 ### Added
 
@@ -14,7 +14,23 @@ All notable changes to the project will be documented in this file.
 
 ### Fixed
 
-- Excludes some useless files from publishing.
+- Update the documentation
+
+---
+
+## 1.1.0 (2020-11-22)
+
+### Added
+
+--
+
+### Changed
+
+--
+
+### Fixed
+
+- Excludes some useless files from publishing
 
 ---
 
@@ -30,7 +46,7 @@ All notable changes to the project will be documented in this file.
 
 ### Fixed
 
-- Fix the CD/CI issues.
+- Fix the CD/CI issues
 
 ---
 
@@ -38,7 +54,7 @@ All notable changes to the project will be documented in this file.
 
 ### Added
 
-- Setup the prettier configuration in JSON format and distribute it with NPM and GitHub registry.
+- Setup the prettier configuration in JSON format and distribute it with NPM and GitHub registry
 
 ### Changed
 
