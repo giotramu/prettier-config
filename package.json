@@ -1,6 +1,6 @@
 {
   "name": "@giotramu/prettier-config",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "An opinionated Prettier config.",
   "author": "giotramu <https://twitter.com/giotramu>",
   "homepage": "https://github.com/giotramu/prettier-config#readme",

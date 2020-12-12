@@ -2,6 +2,12 @@
 
 All notable changes to the project will be documented in this file.
 
+## 1.1.2 (2020-12-12)
+
+- Update the CHANGELOG.md content
+
+---
+
 ## 1.1.1 (2020-12-04)
 
 - Update the documentation
